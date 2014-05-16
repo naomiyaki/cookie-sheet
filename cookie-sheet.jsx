@@ -1,3 +1,10 @@
+// Cookie Sheet Sprite Generator
+// Written by Naomi Rubin 
+
+// Tested for use with Adobe Photoshop CS 5 ~ CC (14)
+// This script is under the MIT License
+// More information and up-to-date source code is available at https://github.com/naomiyaki/cookie-sheet
+
 if(app.documents.length != 0){
 	// Store current document and measurements in a variable
 	var doc = app.activeDocument;
