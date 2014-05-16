@@ -2,6 +2,7 @@ Cookie Sheet Sprite Generator
 ============
 
 Cookie Sheet is a sprite generator script for Photoshop written in Javascript
+
 When making or processing animations in Photoshop it is common to overlay multiple layers on top of one-another and show/hide them as keyframes.
 This is also how Photoshop opens a standard .gif file.
 
@@ -12,8 +13,7 @@ To Use
 Download from here, or fork and clone
 With a Photoshop file open either:
 - Click File > Scripts > Browse... and locate the file 
-  Or
-- Drag the file onto the Photoshop icon in your dock (Mac only?)
+- Or: Drag the file onto the Photoshop icon in your dock (Mac only?)
 
 TODO
 ----
